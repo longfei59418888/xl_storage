@@ -1,0 +1,14 @@
+{
+  "name": "xl_storage",
+  "version": "1.0.4",
+  "description": "localStorage 管理器，并且cookie 做兼容",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaolong",
+  "license": "ISC",
+  "dependencies": {
+    "xl_cookie": "^1.0.7"
+  }
+}
