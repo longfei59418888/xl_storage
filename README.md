@@ -1,6 +1,6 @@
 # title
 #
-######  这里兼容低版本不存在 localStorage，用 cookie 代替
+######  2.0.0 这里兼容不兼容低版本不存在 localStorage，不会用 cookie 代替
 #
 ##  set
 ###### 设置storage
